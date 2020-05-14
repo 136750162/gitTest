@@ -1,3 +1,3 @@
 this is gitOrder test
 
-Git tracks changes
+Git tracks changes of files
