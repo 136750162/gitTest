@@ -7,5 +7,6 @@ package com.cry.test_git_remote_branch.test;
 public class TestGitRemoteBranch {
     public static void main(String[] args) {
         System.out.println("Test git remote branch");
+        System.out.println("忽略 gitignore");
     }
 }
